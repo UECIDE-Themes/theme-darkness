@@ -1,17 +1,17 @@
-Source: theme-nocturne
+Source: theme-darkness
 Section: themes
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: theme-nocturne
+Package: theme-darkness
 Section: themes
 Architecture: all
 XBSC-Group: Dark
-Description: Nocturne theme
- A dark theme ideal for programming at 
- three o'clock in the morning with the lights 
+Description: Darkness theme
+ A dark theme ideal for programming at
+ three o'clock in the morning with the lights
  turned off.
 
 
